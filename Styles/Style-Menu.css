@@ -1,0 +1,21 @@
+.firearms-rentals {
+    text-align: center;
+}
+
+.ammo-for-rent {
+    text-align: center;
+    font-size: 200%;
+}
+
+.handgun-ammo {
+    text-align: left;
+}
+
+.shotgun-ammo {
+    text-align: center;
+}
+
+.rifle-ammo {
+    text-align: right;
+}
+
