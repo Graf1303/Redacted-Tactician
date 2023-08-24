@@ -10,8 +10,8 @@
 .image-row {
     height:80%;
     width:80%;
+    border: 1px solid black;
     position:relative;
-    border:1px solid #000;
     margin:0 auto;
     text-align: center;
 }
