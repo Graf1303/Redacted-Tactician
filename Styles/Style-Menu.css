@@ -1,17 +1,30 @@
+
 .firearms-rentals {
     text-align: center;
+    font-size: 100%;
 }
 
 .ammo-for-rent {
     text-align: center;
     font-size: 200%;
+    padding-top: 50px;
 }
 
-.image-row {
+.image-row,.ammo-text {
     height:80%;
     width:80%;
     border: 1px solid black;
     position:relative;
     margin:0 auto;
     text-align: center;
+}
+.ammo-text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.selection {
+    text-align: center;
+    font-size: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
