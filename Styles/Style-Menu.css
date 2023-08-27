@@ -29,9 +29,13 @@
     padding-bottom: 50px;
 }
 
-.handgun-pricing {
+.rental-pricing {
+    height: 80%;
+    width: 80%;
+    border: 1px solid black;
+    position: relative;
+    margin: 0 auto;
     text-align: center;
-    font-size: 100%;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-right: 200px;
+    font-size: 30px;
 }
